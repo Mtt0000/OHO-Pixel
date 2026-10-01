@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">One Hand Operation Clone</string>
+    <string name="accessibility_service_name">One Hand Operation Gestures</string>
+    <string name="accessibility_service_description">Questo servizio intercetta i gesti ai bordi dello schermo per la navigazione a una mano.</string>
+</resources>
